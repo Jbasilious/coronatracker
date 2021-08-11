@@ -1,3 +1,10 @@
+<p>This Fork was used for course EECS3311. <br>
+Our assignments were to refactor code to implement various design patterns.<br>
+Following is the original readme.<br></p>
+
+<br>
+
+
 # What is CoronaTracker
 
 [CoronaTracker](https://www.coronatracker.com/) is a full-stack web app for the public to track the latest development of Coronavirus, including data, news, and social media.
